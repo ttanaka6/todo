@@ -1,0 +1,10 @@
+ja: 
+  activerecord: 
+    models: 
+      todo: "藤堂"  #g
+
+    attributes: 
+      todo: 
+        title: "タイトル"  #g
+        finished: "終了"  #g
+
